@@ -170,6 +170,8 @@ body {
     display: flex;
     align-items: center;
     gap: 6px;
+    font-family: "Poppins", sans-serif !important; 
+    text-transform: none;
 }
 
 @keyframes scroll {
